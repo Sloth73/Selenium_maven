@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/macbook/Documents/Java_learning/Selenium_maven/mavenproject/src/test/java/org/example/Surefire.java"><classes><class name="org.example.Surefire"><methods><include name="testng"/></methods></class></classes></test></suite>
