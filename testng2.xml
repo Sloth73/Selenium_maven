@@ -3,6 +3,8 @@
 <suite name="All Test Suite">
     <test thread-count="5" name="Test">
         <classes>
+            <class name="org.example.Profile">
+            </class>
             <class name="org.example.Surefire">
             </class>
         </classes>
